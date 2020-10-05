@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Sinatra - It's Magic"
-date:       2020-10-05 01:46:40 +0000
+date:       2020-10-04 21:46:40 -0400
 permalink:  sinatra_-_its_magic
 ---
 
